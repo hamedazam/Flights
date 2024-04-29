@@ -475,14 +475,14 @@ section.style.backgroundImage='url("images/img2.png")';
 }
 i3.onclick=function()
 {
-section.style.backgroundImage='url("../images/img3.png")';
+section.style.backgroundImage='url("images/img3.png")';
 }
 i4.onclick=function()
 {
-section.style.backgroundImage='url("../images/img4.png")';
+section.style.backgroundImage='url("images/img4.png")';
 }
 i5.onclick=function()
 {
-section.style.backgroundImage='url("../images/last.png")';
+section.style.backgroundImage='url("images/last.png")';
 }
 // hamed end
