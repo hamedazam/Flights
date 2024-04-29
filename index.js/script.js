@@ -467,11 +467,11 @@ console.log(i4)
 console.log(i5)
 i1.onclick=function()
 {
-section.style.backgroundImage='url("../images/img1.gif")';
+section.style.backgroundImage='url("images/img1.gif")';
 }
 i2.onclick=function()
 {
-section.style.backgroundImage='url("../images/img2.png")';
+section.style.backgroundImage='url("images/img2.png")';
 }
 i3.onclick=function()
 {
